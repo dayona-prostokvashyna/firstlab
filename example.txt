@@ -1,1 +1,1 @@
-"Example content" 
+"This is an example file" 
